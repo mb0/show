@@ -9,28 +9,34 @@ Free music should be featured, but a shallow search revealed not much progress t
 Hard and software
 -----------------
 
+My father is well known for his [bricolages](https://en.wikipedia.org/wiki/Bricolage), I learned
+from him to use and repurpose the things directly available. My setup is based on that spirit:
+
  * General
    * [Debian Linux testing](https://www.debian.org/) on a custom PC
    * Schalloch Percussion Conga, from a friends fathers estate
  * Audio
-   * Shure SM57 microphone with tripod
-   * Superlux E303 boundary microphone
-   * M-Audio M-Track Duo audio interface
+   * Shure SM57 microphone with tripod 125€
+   * Superlux E303 boundary microphone 45€
+   * M-Audio M-Track Duo audio interface 55€
    * [Ardour 7](http://ardour.org/) digital audio software using [PipeWire](https://pipewire.org/)
    * [Calf Studio Gear](https://calf-studio-gear.org/) audio plugins
-   * Superlux HD 681B headphones for playback
+   * Superlux HD 681B headphones for playback, that I already had
  * Video
    * Samsung Galaxy S9, a gift from my brother
    * An old photo tripod from my father, with a new smart phone adapter
+   * A larger micro SD card 12,99€ and a tripod adapter for phones 9,99€
    * [srccpy](https://blog.rom1v.com/2018/03/introducing-scrcpy/) to remote control recording
    * [Flowblade](https://jliljebl.github.io/flowblade/) video editor
  * Lighting
    * LED wellness daylight lamp; a gift from my best friend for dark northern winters
    * A white 23" PC monitor as fill-light
    * LED room lights as back-light
-   * Space blanket to tint and reflect the key-light
+   * Space blanket to tint and reflect the key-light 1,30€
  * Publishing
    * TODO: Custom webapp that serves content and manages copyright permissions from rights holders
+
+Without counting my PC and the headphones, the combined costs are 249,28€.
 
 Music
 -----
