@@ -38,6 +38,18 @@ from him to use and repurpose the things directly available. My setup is based o
 
 Without counting my PC and the headphones, the combined costs are 249,28€.
 
+I eventually want to share the raw recordings and Ardour project with git to allow others to easier
+use and collaborate the recordings. For that to work with long recordings we should use FLAC sources
+and git large file storage for long mixes to not trigger file size limits on github.
+
+The video editing part is not really feasible to share on github. For one the editor is linux only
+and the file sizes involved are way to big for public hosting. We can save it to a private web
+library and give out explicit access to authenticated users.
+
+We should add document linking to generic setup and detailing the required extras. We can hide
+copyrighted music from version control and provide a link and script to download, convert and save
+the audio files for the playback track.
+
 Music
 -----
 
