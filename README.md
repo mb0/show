@@ -27,7 +27,7 @@ from him to use and repurpose the things directly available. My setup is based o
    * An old photo tripod from my father, with a new smart phone adapter
    * A larger micro SD card 12,99€ and a tripod adapter for phones 9,99€
    * [srccpy](https://blog.rom1v.com/2018/03/introducing-scrcpy/) to remote control recording
-   * [Flowblade](https://jliljebl.github.io/flowblade/) video editor
+   * [Blender](https://www.blender.org/) as video editor
  * Lighting
    * LED wellness daylight lamp; a gift from my best friend for dark northern winters
    * A white 23" PC monitor as fill-light
