@@ -19,9 +19,30 @@ Recordings
    tap to a audible one, but it was ok for the first take. Todays recordings:
    * [Jazzanova - Fedime's Flight](https://soundcloud.com/jazzanova/jazzanova-fedimes-flight)
    * [Blue States - Walkabout](https://soundcloud.com/bluestates/walkabout)
-   * [Ear Dis - Hey Girl](https://www.youtube.com/watch?v=ia8QIofFWgc)
    * [Rocko Schamoni - Discoteer 2](https://www.youtube.com/watch?v=V9OnbnlGveg)
-   * [4Hero - Star Charser](https://www.youtube.com/watch?v=dvVZIxUb7Rg)
-   * [4Hero - We Who Are Not As Others (Jazzanova Remix)](https://www.youtube.com/watch?v=3KD_LgYsILI)
+   * [4Hero - Star Chaser](https://www.youtube.com/watch?v=dvVZIxUb7Rg)
    * [Linda Lewis - Reach For The Truth](https://www.youtube.com/watch?v=RDdX0YyLCRs)
+   * [daehan - Beach Trip!](https://soundcloud.com/daehanseo/beach-trip-1)
+   * [Jamiroquai - Cosmic Girl](https://www.youtube.com/watch?v=D-NvQ6VJYtE)
+   * [4Hero - We Who Are Not As Others (Jazzanova Remix)](https://www.youtube.com/watch?v=3KD_LgYsILI)
+   * Diplo Meets RJD2 Mix
+   * Self Help - International Dance Night Mixtape 2012
+   * [Louis Cole - Dead Inside Shuffle](https://soundcloud.com/louiscole/dead-inside-shuffle)
+   * [Anderson .Paak - Am I Wrong](https://soundcloud.com/andersonpaak/am-i-wrong-anderson-paak)
+   * [Koffee - NPR Tiny Desk](https://www.youtube.com/watch?v=0Cmzn8BIOdA)
+   * [Cid Rim - On Giles Person World Wide 942](https://soundcloud.com/worldwide-fm/gpww942-cidrim-mix)
+   * [Tera Kora - The Legend Of Kora Book Two](https://soundcloud.com/tera-kora/the-legend-of-kora-remixes-edits-book-two)
+   * That concludes the second day of recording. I only did one second take for the 4Hero-Jazzanova
+     remix. Ardour crashed on me after the 30min Cid Rim recording, but the files were still there,
+     so everything worked out fine. I adjusted the plugins and saved presets and templates.
+   * I am not sure if I do the video sync and editing today… I am not yet satisfied with the
+     recording quality. I want some noise reduction plugin and some filter path. I want the sound
+     especially the resonances to be more open, the taps and kicks should be cleaner. I should
+     probably wait to meet my best friend, who does that professionally.
 
+TODO
+----
+
+   * More from NPR Tiny Desk
+   * Great Solid Steel Mixes
+   * [Ear Dis - Hey Girl](https://www.youtube.com/watch?v=ia8QIofFWgc) get better version
