@@ -43,9 +43,24 @@ Recordings
      the camera stabilization seems to follow my body movement and crop the view area for headroom.
    * Total audio dubbed with video recordings today: 2:35:25; second takes: 1 :D
 
+Checklist
+---------
+
+ [ ] Notebook runs scrcpy connected to smart phone mounted on tripod
+ [ ] All lights are on, space blanket is up
+ [ ] Ardour is started on the right hand side monitor, backing track is loaded, recording is armed
+ [ ] Wearing sunglasses and headphones that are plugged in, playback audio level check
+ [ ] Start recording video, name song artist, title and take number
+ [ ] Start recording audio and play along to the end without major errors
+ [ ] Visible loud clap!
+ [ ] Stop recording video, then audio
+ [ ] Adjust track gains, save and close
+
+
 TODO
 ----
 
    * More from NPR Tiny Desk
    * Great Solid Steel Mixes
    * [Ear Dis - Hey Girl](https://www.youtube.com/watch?v=ia8QIofFWgc) get better version
+   * https://www.youtube.com/watch?v=QJtWwmt0cXM
