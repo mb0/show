@@ -39,6 +39,9 @@ Recordings
      recording quality. I want some noise reduction plugin and some filter path. I want the sound
      especially the resonances to be more open, the taps and kicks should be cleaner. I should
      probably wait to meet my best friend, who does that professionally.
+   * Reviewing the video recordings, I noticed the smart phone has a better de-noise pass and that
+     the camera stabilization seems to follow my body movement and crop the view area for headroom.
+   * Total audio dubbed with video recordings today: 2:35:25; second takes: 1 :D
 
 TODO
 ----
