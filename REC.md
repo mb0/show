@@ -43,6 +43,19 @@ Recordings
      the camera stabilization seems to follow my body movement and crop the view area for headroom.
    * Total audio dubbed with video recordings today: 2:35:25; second takes: 1 :D
 
+ * 2023-01-24 I have discovered that the naming of Ardour session folder uses a unfortunate format.
+   I try to rename them first before recording new sessions.
+   * [Nina Simone - Feeling Good](https://www.youtube.com/watch?v=oHRNrgDIJfo)
+   * [The Nextmen - Cirque Du Soul Mix](https://www.mixcloud.com/thenextmen/cirque-du-soul-nextmen-mix/)
+   * [Soul Bossa Trio - Words Of Love (Jazzanova Remix)](https://www.youtube.com/watch?v=BUTyasfhI-g)
+   * [Trueno - NPR Tiny Desk](https://www.youtube.com/watch?v=2C-WmZQABLQ)
+   * [EKANY - XXIII sweetdrops Mix](https://soundcloud.com/xxiiibeats/sweetdrops-056-w-ekany)
+   * [Hooded Youth, ChromeCrowns - Burn Cartel Radio 88](https://soundcloud.com/burncartel/bc-radio-episode-88?in=hoodedyouth/sets/burn-cartel-radio-episode-88)
+   * Total recording time 3:09 hours; no second take
+   * I adjusted the equalizer and compressor settings for both mics and tried video syncing in
+     blender for the first recording and some others.
+   * I read and refreshed some about html5 video and audio apis and started preliminary testing
+
 Checklist
 ---------
 
@@ -61,6 +74,10 @@ TODO
 ----
 
    * More from NPR Tiny Desk
+     * [Jessie Reyez - NPR Tiny Desk](https://www.youtube.com/watch?v=wSl5_RDCfrQ)
+     * [Stromae - NPR Tiny Desk](https://www.youtube.com/watch?v=6dkDepLX0rk)
+     * [Dua Lipa](https://www.youtube.com/watch?v=F4neLJQC1_E)
+     * [Erykah Badu](https://www.youtube.com/watch?v=4cfmEgpOOZk)
    * Great Solid Steel Mixes
    * [Ear Dis - Hey Girl](https://www.youtube.com/watch?v=ia8QIofFWgc) get better version
    * https://www.youtube.com/watch?v=QJtWwmt0cXM
