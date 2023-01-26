@@ -28,15 +28,18 @@ from him to use and repurpose the things directly available. My setup is based o
    * A larger micro SD card 12,99€ and a tripod adapter for phones 9,99€
    * [srccpy](https://blog.rom1v.com/2018/03/introducing-scrcpy/) to remote control recording
    * [Blender](https://www.blender.org/) as video editor
+   * I bought a directors clap in hope to someday use it for automate visual clap detection 20,99€
  * Lighting
    * LED wellness daylight lamp; a gift from my best friend for dark northern winters
    * A white 23" PC monitor as fill-light
    * LED room lights as back-light
    * Space blanket to tint and reflect the key-light 1,30€
  * Publishing
+   * I want to subscribe to soundcloud next plus, but that would be 5.50€ a month, so maybe I should
+     wait and see if anyone is interested in chipping in.
    * TODO: Custom webapp that serves content and manages copyright permissions from rights holders
 
-Without counting my PC and the headphones, the combined costs are 249,28€.
+Without counting my PC and the headphones, the combined costs are 270,27€.
 
 I eventually want to share the raw recordings and Ardour project with git to allow others to easier
 use and collaborate the recordings. For that to work with long recordings we should use FLAC sources
@@ -56,6 +59,11 @@ Music
 I want to upload recordings to soundcloud and youtube, therefor songs must either be in the public
 domain, have a creative commons cc-by or cc-by-sa license, or I must collect the explicit
 confirmation of all relevant rights holders.
+
+[The recording diary](./REC.md) logs the order and songs that were recorded with some notes.
+
+I decided to upload videos to [my youtube channel](https://www.youtube.com/@mbnull) and see what
+happens. I want to at least try the default way using youtube detection and fair-use disputes.
 
 ### Public domain
 

@@ -20,16 +20,19 @@ Recordings
    * [Jazzanova - Fedime's Flight](https://soundcloud.com/jazzanova/jazzanova-fedimes-flight)
    * [Blue States - Walkabout](https://soundcloud.com/bluestates/walkabout)
    * [Rocko Schamoni - Discoteer 2](https://www.youtube.com/watch?v=V9OnbnlGveg)
+     yt: [full](https://www.youtube.com/watch?v=J1ZKtI4mjso)
    * [4Hero - Star Chaser](https://www.youtube.com/watch?v=dvVZIxUb7Rg)
    * [Linda Lewis - Reach For The Truth](https://www.youtube.com/watch?v=RDdX0YyLCRs)
    * [daehan - Beach Trip!](https://soundcloud.com/daehanseo/beach-trip-1)
    * [Jamiroquai - Cosmic Girl](https://www.youtube.com/watch?v=D-NvQ6VJYtE)
+     yt: [full](https://www.youtube.com/watch?v=FvN9UbfWYUU)
    * [4Hero - We Who Are Not As Others (Jazzanova Remix)](https://www.youtube.com/watch?v=3KD_LgYsILI)
    * Diplo Meets RJD2 Mix
    * Self Help - International Dance Night Mixtape 2012
    * [Louis Cole - Dead Inside Shuffle](https://soundcloud.com/louiscole/dead-inside-shuffle)
    * [Anderson .Paak - Am I Wrong](https://soundcloud.com/andersonpaak/am-i-wrong-anderson-paak)
    * [Koffee - NPR Tiny Desk](https://www.youtube.com/watch?v=0Cmzn8BIOdA)
+     yt: [full](https://www.youtube.com/watch?v=vG-SLVJTZs0)
    * [Cid Rim - On Giles Person World Wide 942](https://soundcloud.com/worldwide-fm/gpww942-cidrim-mix)
    * [Tera Kora - The Legend Of Kora Book Two](https://soundcloud.com/tera-kora/the-legend-of-kora-remixes-edits-book-two)
    * That concludes the second day of recording. I only did one second take for the 4Hero-Jazzanova
@@ -47,6 +50,7 @@ Recordings
    I try to rename them first before recording new sessions.
    * [Nina Simone - Feeling Good](https://www.youtube.com/watch?v=oHRNrgDIJfo)
    * [The Nextmen - Cirque Du Soul Mix](https://www.mixcloud.com/thenextmen/cirque-du-soul-nextmen-mix/)
+     yt: [full](https://www.youtube.com/watch?v=vzd615yaguk)
    * [Soul Bossa Trio - Words Of Love (Jazzanova Remix)](https://www.youtube.com/watch?v=BUTyasfhI-g)
    * [Trueno - NPR Tiny Desk](https://www.youtube.com/watch?v=2C-WmZQABLQ)
    * [EKANY - XXIII sweetdrops Mix](https://soundcloud.com/xxiiibeats/sweetdrops-056-w-ekany)
@@ -65,25 +69,44 @@ Recordings
      wrong with the mic and it sounds like it had bit-crusher effect all the time. It is gone now.
      It must have been a XLR-Cable under tension. This was an 1-hour mic check ;) and must be
      avoided in the future.
+     yt: [full](https://www.youtube.com/watch?v=I5-xhoKfKcU)
 
  * 2023-01-26 The last 8 hours I exported, synced, cut, rendered and uploaded videos and clips to
    [my youtube channel](https://m.youtube.com/@mbnull). After some sleep I do some more.
+   * [K-$ADILLA - El Super Spicy Tape](https://soundcloud.com/thunderstone-labs/sst)
+     yt: [full](https://youtu.be/etgSMNBt7zo)
+   * [Footprint Project - NANA](https://soundcloud.com/lalonova/footprint-project-nana-radio-edit)
+   * [Knower - Living Room Power Set 2020](https://www.youtube.com/watch?v=atBO6e7k5Wo)
+     yt: [full](https://youtu.be/_kSwVKgBf34)
 
 
-Checklist
----------
+Checklists
+----------
+
+### Recording
 
  [ ] Notebook runs scrcpy connected to smart phone mounted on tripod
  [ ] All lights are on, space blanket is up
- [ ] Mic-check in Ardour test project
  [ ] Ardour is started on the right hand side monitor, backing track is loaded, recording is armed
+ [ ] Mic-check without recording
  [ ] Wearing sunglasses and headphones that are plugged in, playback audio level check
  [ ] Start recording video, name song artist, title and take number
- [ ] Start recording audio and play along to the end without major errors
+ [ ] Start recording audio and check you are actually recording!
+ [ ] Play along to the end without major errors
  [ ] Visible loud clap!
  [ ] Stop recording video, then audio
  [ ] Adjust track gains, save and close
 
+### Video editing
+
+ [ ] Export audio from Ardour with clap and normalized to youtube profile without
+ [ ] Copy video to project folder
+ [ ] Import audio with and without clap, and video file into Blender
+ [ ] Transform video, mute other audio tracks
+ [ ] For large recordings transform and align preceding video files
+ [ ] Align clap manually
+ [ ] Set clip length
+ [ ] Render video
 
 TODO
 ----
@@ -94,5 +117,7 @@ TODO
      * [Dua Lipa](https://www.youtube.com/watch?v=F4neLJQC1_E)
      * [Erykah Badu](https://www.youtube.com/watch?v=4cfmEgpOOZk)
    * Great Solid Steel Mixes
+   * The Zero 7 mix
+   * A Bob Marley concert with good audio quality
    * [Ear Dis - Hey Girl](https://www.youtube.com/watch?v=ia8QIofFWgc) get better version
    * https://www.youtube.com/watch?v=QJtWwmt0cXM
