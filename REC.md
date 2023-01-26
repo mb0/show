@@ -56,11 +56,26 @@ Recordings
      blender for the first recording and some others.
    * I read and refreshed some about html5 video and audio apis and started preliminary testing
 
+ * 2023-01-25
+   * I did video sync and render in blender for the burn cartel recording and learned a bit about
+     blender scripting in python. I already configured a project template and learned about relative
+     paths in blender.
+   * [Love Taps - July 2016 Subdrive Podcast](https://soundcloud.com/subdrive/subdrive-podcast-episode-11-july-2016-love-taps)
+     I recorded the first take and it had some stumbles but was ok overall, however something was
+     wrong with the mic and it sounds like it had bit-crusher effect all the time. It is gone now.
+     It must have been a XLR-Cable under tension. This was an 1-hour mic check ;) and must be
+     avoided in the future.
+
+ * 2023-01-26 The last 8 hours I exported, synced, cut, rendered and uploaded videos and clips to
+   [my youtube channel](https://m.youtube.com/@mbnull). After some sleep I do some more.
+
+
 Checklist
 ---------
 
  [ ] Notebook runs scrcpy connected to smart phone mounted on tripod
  [ ] All lights are on, space blanket is up
+ [ ] Mic-check in Ardour test project
  [ ] Ardour is started on the right hand side monitor, backing track is loaded, recording is armed
  [ ] Wearing sunglasses and headphones that are plugged in, playback audio level check
  [ ] Start recording video, name song artist, title and take number
