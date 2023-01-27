@@ -27,14 +27,18 @@ Recordings
    * [Jamiroquai - Cosmic Girl](https://www.youtube.com/watch?v=D-NvQ6VJYtE)
      yt: [full](https://www.youtube.com/watch?v=FvN9UbfWYUU)
    * [4Hero - We Who Are Not As Others (Jazzanova Remix)](https://www.youtube.com/watch?v=3KD_LgYsILI)
-   * Diplo Meets RJD2 Mix
-   * Self Help - International Dance Night Mixtape 2012
+   * [Diplo Meets RJD2 Mix](https://www.youtube.com/watch?v=cj5h1o8XRnk)
+     yt: [full](https://youtu.be/Dvgv8RipGB0)
+   * [Self Help - International Dance Night Mixtape 2012](https://soundcloud.com/djselfhelp/dj-self-help-international)
+     yt: [full](https://youtu.be/h8Uyaf74qpk)
    * [Louis Cole - Dead Inside Shuffle](https://soundcloud.com/louiscole/dead-inside-shuffle)
    * [Anderson .Paak - Am I Wrong](https://soundcloud.com/andersonpaak/am-i-wrong-anderson-paak)
    * [Koffee - NPR Tiny Desk](https://www.youtube.com/watch?v=0Cmzn8BIOdA)
      yt: [full](https://www.youtube.com/watch?v=vG-SLVJTZs0)
-   * [Cid Rim - On Giles Person World Wide 942](https://soundcloud.com/worldwide-fm/gpww942-cidrim-mix)
+   * [Cid Rim - On Gilles Peterson World Wide 942](https://soundcloud.com/worldwide-fm/gpww942-cidrim-mix)
+     yt: [full](https://youtu.be/o7YRKBEJsBM)
    * [Tera Kora - The Legend Of Kora Book Two](https://soundcloud.com/tera-kora/the-legend-of-kora-remixes-edits-book-two)
+     yt: [full](https://youtu.be/tuZpUrqhtPM)
    * That concludes the second day of recording. I only did one second take for the 4Hero-Jazzanova
      remix. Ardour crashed on me after the 30min Cid Rim recording, but the files were still there,
      so everything worked out fine. I adjusted the plugins and saved presets and templates.
@@ -52,6 +56,7 @@ Recordings
    * [The Nextmen - Cirque Du Soul Mix](https://www.mixcloud.com/thenextmen/cirque-du-soul-nextmen-mix/)
      yt: [full](https://www.youtube.com/watch?v=vzd615yaguk)
    * [Soul Bossa Trio - Words Of Love (Jazzanova Remix)](https://www.youtube.com/watch?v=BUTyasfhI-g)
+     yt: [full](https://youtu.be/Qp-Nnv4d9PE)
    * [Trueno - NPR Tiny Desk](https://www.youtube.com/watch?v=2C-WmZQABLQ)
    * [EKANY - XXIII sweetdrops Mix](https://soundcloud.com/xxiiibeats/sweetdrops-056-w-ekany)
    * [Hooded Youth, ChromeCrowns - Burn Cartel Radio 88](https://soundcloud.com/burncartel/bc-radio-episode-88?in=hoodedyouth/sets/burn-cartel-radio-episode-88)
@@ -76,8 +81,12 @@ Recordings
    * [K-$ADILLA - El Super Spicy Tape](https://soundcloud.com/thunderstone-labs/sst)
      yt: [full](https://youtu.be/etgSMNBt7zo)
    * [Footprint Project - NANA](https://soundcloud.com/lalonova/footprint-project-nana-radio-edit)
+     Second take because the mic distortion happend again. This time I identified the culprit: the
+     pipewire system can be restarted when mic check reveals distortions.
    * [Knower - Living Room Power Set 2020](https://www.youtube.com/watch?v=atBO6e7k5Wo)
+     Technically first take, because I forgot to arm the audio recording the first time…
      yt: [full](https://youtu.be/_kSwVKgBf34)
+   * Total recording time 1:15 hours; one recording issue, one unrecorded session
 
 
 Checklists
@@ -114,8 +123,28 @@ TODO
    * More from NPR Tiny Desk
      * [Jessie Reyez - NPR Tiny Desk](https://www.youtube.com/watch?v=wSl5_RDCfrQ)
      * [Stromae - NPR Tiny Desk](https://www.youtube.com/watch?v=6dkDepLX0rk)
-     * [Dua Lipa](https://www.youtube.com/watch?v=F4neLJQC1_E)
-     * [Erykah Badu](https://www.youtube.com/watch?v=4cfmEgpOOZk)
+     * [Dua Lipa - NPR Tiny Desk](https://www.youtube.com/watch?v=F4neLJQC1_E)
+     * [Erykah Badu - NPR Tiny Desk](https://www.youtube.com/watch?v=4cfmEgpOOZk)
+     * [DOMi & JD BECK - NPR Tiny Desk](https://www.youtube.com/watch?v=ANPbOxaRIO0)
+     * [Seu Jorge - NPR Tiny Desk](https://www.youtube.com/watch?v=2Ws_5-hiqao)
+     * [The Free Nationals Feat. Anderson .Paak, Chronixx & India Shawn - NPR Tiny Desk](https://www.youtube.com/watch?v=y1VKZUg8XZA)
+     * [The Comet Is Coming - NPR Tiny Desk](https://www.youtube.com/watch?v=gpfpYTmohAk)
+     * [Wyclef Jean - NPR Tiny Desk](https://www.youtube.com/watch?v=EhnLJwmEy_k)
+     * [No BS! Brass Band - NPR Tiny Desk](https://www.youtube.com/watch?v=MEjNggZsWow)
+     * [Jake Blount - NPR Tiny Desk](https://www.youtube.com/watch?v=uMPFEXq1eSU)
+     * [Masego - NPR Tiny Desk](https://www.youtube.com/watch?v=K6tzeZLjUNE)
+     * [Jon Batiste - NPR Tiny Desk](https://www.youtube.com/watch?v=ze4xcmBFvaE)
+     * [Aminé - NPR Tiny Desk](https://www.youtube.com/watch?v=l0MqlDbZ_as)
+     * [Phony Ppl - NPR Tiny Desk](https://www.youtube.com/watch?v=5gP0-sDkFS8)
+     * [Gucci Mane - NPR Tiny Desk](https://www.youtube.com/watch?v=wlFQjExxD4U)
+     * [Protoje - NPR Tiny Desk](https://www.youtube.com/watch?v=CMyNMITOjro)
+     * [Bas - NPR Tiny Desk](https://www.youtube.com/watch?v=m0bOq-sm-m8)
+     * [Lila Iké - NPR Tiny Desk](https://www.youtube.com/watch?v=mbPa0QH_zxA)
+     * [Tyler, The Creator - NPR Tiny Desk](https://www.youtube.com/watch?v=N1w-hDiJ4dM)
+     * [Tower of Power - NPR Tiny Desk](https://www.youtube.com/watch?v=IDksWTzZQ2c)
+     * [Cory Henry & The Funk Apostles - NPR Tiny Desk](https://www.youtube.com/watch?v=6m0lk3M3_Ts)
+   * [FKJ - Live at La Fée Electricité](https://www.youtube.com/watch?v=xuc9C-C6Ldw)
+   * [Snarky Puppy - Lingus](https://www.youtube.com/watch?v=L_XJ_s5IsQc)
    * Great Solid Steel Mixes
    * The Zero 7 mix
    * A Bob Marley concert with good audio quality
