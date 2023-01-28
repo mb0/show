@@ -88,6 +88,19 @@ Recordings
      yt: [full](https://youtu.be/_kSwVKgBf34)
    * Total recording time 1:15 hours; one recording issue, one unrecorded session
 
+ * 2023-01-26
+   * [Love Taps - WRG Mix 13](https://soundcloud.com/wrgmag/whats-really-good-mix-series-vol-13-by-love-taps)
+     yt: [full](https://youtu.be/ccr00pGE6Zo)
+   * [Jon Batiste - NPR Tiny Desk](https://www.youtube.com/watch?v=ze4xcmBFvaE) improv
+   * [Tower of Power - NPR Tiny Desk](https://www.youtube.com/watch?v=IDksWTzZQ2c) improv
+   * [Gucci Mane - NPR Tiny Desk](https://www.youtube.com/watch?v=wlFQjExxD4U) improv
+   * [RJD2 - Radio One Breezeblock Mix 2004-06-08](https://www.last.fm/music/RJD2/_/Breezeblock+Mix+08-06-2004)
+     yt: [full](https://youtu.be/Bg1yADd6d34)
+   * [Zero7 - Nacht der 5 Sinne 2005-05-20](https://soundcloud.com/martin-schnabel-5/zero7-nacht-der-5-sinne-2005-05-20)
+     yt: [full](https://youtu.be/mNMzrspRpXE)
+   * I get better and better sound out of these mics by better placement and better
+     equalizer, compressor, hilo filter settings.
+   * Total recording time 4:16 hours; three improvs, no second take. Tour de force!
 
 Checklists
 ----------
@@ -133,15 +146,12 @@ TODO
      * [No BS! Brass Band - NPR Tiny Desk](https://www.youtube.com/watch?v=MEjNggZsWow)
      * [Jake Blount - NPR Tiny Desk](https://www.youtube.com/watch?v=uMPFEXq1eSU)
      * [Masego - NPR Tiny Desk](https://www.youtube.com/watch?v=K6tzeZLjUNE)
-     * [Jon Batiste - NPR Tiny Desk](https://www.youtube.com/watch?v=ze4xcmBFvaE)
      * [Aminé - NPR Tiny Desk](https://www.youtube.com/watch?v=l0MqlDbZ_as)
      * [Phony Ppl - NPR Tiny Desk](https://www.youtube.com/watch?v=5gP0-sDkFS8)
-     * [Gucci Mane - NPR Tiny Desk](https://www.youtube.com/watch?v=wlFQjExxD4U)
      * [Protoje - NPR Tiny Desk](https://www.youtube.com/watch?v=CMyNMITOjro)
      * [Bas - NPR Tiny Desk](https://www.youtube.com/watch?v=m0bOq-sm-m8)
      * [Lila Iké - NPR Tiny Desk](https://www.youtube.com/watch?v=mbPa0QH_zxA)
      * [Tyler, The Creator - NPR Tiny Desk](https://www.youtube.com/watch?v=N1w-hDiJ4dM)
-     * [Tower of Power - NPR Tiny Desk](https://www.youtube.com/watch?v=IDksWTzZQ2c)
      * [Cory Henry & The Funk Apostles - NPR Tiny Desk](https://www.youtube.com/watch?v=6m0lk3M3_Ts)
    * [FKJ - Live at La Fée Electricité](https://www.youtube.com/watch?v=xuc9C-C6Ldw)
    * [Snarky Puppy - Lingus](https://www.youtube.com/watch?v=L_XJ_s5IsQc)
