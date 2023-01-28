@@ -88,7 +88,7 @@ Recordings
      yt: [full](https://youtu.be/_kSwVKgBf34)
    * Total recording time 1:15 hours; one recording issue, one unrecorded session
 
- * 2023-01-26
+ * 2023-01-27
    * [Love Taps - WRG Mix 13](https://soundcloud.com/wrgmag/whats-really-good-mix-series-vol-13-by-love-taps)
      yt: [full](https://youtu.be/ccr00pGE6Zo)
    * [Jon Batiste - NPR Tiny Desk](https://www.youtube.com/watch?v=ze4xcmBFvaE) improv
@@ -98,9 +98,18 @@ Recordings
      yt: [full](https://youtu.be/Bg1yADd6d34)
    * [Zero7 - Nacht der 5 Sinne 2005-05-20](https://soundcloud.com/martin-schnabel-5/zero7-nacht-der-5-sinne-2005-05-20)
      yt: [full](https://youtu.be/mNMzrspRpXE)
-   * I get better and better sound out of these mics by better placement and better
-     equalizer, compressor, hilo filter settings.
+   * I get better and better sound out of these mics by better placement and better equalizer,
+     compressor, hilo filter settings.
    * Total recording time 4:16 hours; three improvs, no second take. Tour de force!
+
+ * 2023-01-28
+   * [Jake Blount - NPR Tiny Desk](https://www.youtube.com/watch?v=uMPFEXq1eSU)
+   * [Stromae - NPR Tiny Desk](https://www.youtube.com/watch?v=6dkDepLX0rk)
+   * [DOMi & JD BECK - NPR Tiny Desk](https://www.youtube.com/watch?v=ANPbOxaRIO0)
+   * [Scary Pockets - STARBLASTER 3am Funk Dance Party](https://youtu.be/1UOVLdPslmo) improv
+   * [Tyler, The Creator - NPR Tiny Desk](https://www.youtube.com/watch?v=N1w-hDiJ4dM) improv
+   * [Cory Henry & The Funk Apostles - NPR Tiny Desk](https://youtu.be/6m0lk3M3_Ts) improv
+   * Total recording time 2:15 hours.
 
 Checklists
 ----------
@@ -135,24 +144,19 @@ TODO
 
    * More from NPR Tiny Desk
      * [Jessie Reyez - NPR Tiny Desk](https://www.youtube.com/watch?v=wSl5_RDCfrQ)
-     * [Stromae - NPR Tiny Desk](https://www.youtube.com/watch?v=6dkDepLX0rk)
      * [Dua Lipa - NPR Tiny Desk](https://www.youtube.com/watch?v=F4neLJQC1_E)
      * [Erykah Badu - NPR Tiny Desk](https://www.youtube.com/watch?v=4cfmEgpOOZk)
-     * [DOMi & JD BECK - NPR Tiny Desk](https://www.youtube.com/watch?v=ANPbOxaRIO0)
      * [Seu Jorge - NPR Tiny Desk](https://www.youtube.com/watch?v=2Ws_5-hiqao)
      * [The Free Nationals Feat. Anderson .Paak, Chronixx & India Shawn - NPR Tiny Desk](https://www.youtube.com/watch?v=y1VKZUg8XZA)
      * [The Comet Is Coming - NPR Tiny Desk](https://www.youtube.com/watch?v=gpfpYTmohAk)
      * [Wyclef Jean - NPR Tiny Desk](https://www.youtube.com/watch?v=EhnLJwmEy_k)
      * [No BS! Brass Band - NPR Tiny Desk](https://www.youtube.com/watch?v=MEjNggZsWow)
-     * [Jake Blount - NPR Tiny Desk](https://www.youtube.com/watch?v=uMPFEXq1eSU)
      * [Masego - NPR Tiny Desk](https://www.youtube.com/watch?v=K6tzeZLjUNE)
      * [Aminé - NPR Tiny Desk](https://www.youtube.com/watch?v=l0MqlDbZ_as)
      * [Phony Ppl - NPR Tiny Desk](https://www.youtube.com/watch?v=5gP0-sDkFS8)
      * [Protoje - NPR Tiny Desk](https://www.youtube.com/watch?v=CMyNMITOjro)
      * [Bas - NPR Tiny Desk](https://www.youtube.com/watch?v=m0bOq-sm-m8)
      * [Lila Iké - NPR Tiny Desk](https://www.youtube.com/watch?v=mbPa0QH_zxA)
-     * [Tyler, The Creator - NPR Tiny Desk](https://www.youtube.com/watch?v=N1w-hDiJ4dM)
-     * [Cory Henry & The Funk Apostles - NPR Tiny Desk](https://www.youtube.com/watch?v=6m0lk3M3_Ts)
    * [FKJ - Live at La Fée Electricité](https://www.youtube.com/watch?v=xuc9C-C6Ldw)
    * [Snarky Puppy - Lingus](https://www.youtube.com/watch?v=L_XJ_s5IsQc)
    * Great Solid Steel Mixes
