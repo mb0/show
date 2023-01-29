@@ -34,7 +34,7 @@ Recordings
    * [Louis Cole - Dead Inside Shuffle](https://soundcloud.com/louiscole/dead-inside-shuffle)
    * [Anderson .Paak - Am I Wrong](https://soundcloud.com/andersonpaak/am-i-wrong-anderson-paak)
    * [Koffee - NPR Tiny Desk](https://www.youtube.com/watch?v=0Cmzn8BIOdA)
-     yt: [full](https://www.youtube.com/watch?v=vG-SLVJTZs0)
+     yt: [full](https://youtu.be/vG-SLVJTZs0) [collage](https://youtu.be/OysJFD_BxtQ)
    * [Cid Rim - On Gilles Peterson World Wide 942](https://soundcloud.com/worldwide-fm/gpww942-cidrim-mix)
      yt: [full](https://youtu.be/o7YRKBEJsBM)
    * [Tera Kora - The Legend Of Kora Book Two](https://soundcloud.com/tera-kora/the-legend-of-kora-remixes-edits-book-two)
@@ -57,7 +57,8 @@ Recordings
      yt: [full](https://www.youtube.com/watch?v=vzd615yaguk)
    * [Soul Bossa Trio - Words Of Love (Jazzanova Remix)](https://www.youtube.com/watch?v=BUTyasfhI-g)
      yt: [full](https://youtu.be/Qp-Nnv4d9PE)
-   * [Trueno - NPR Tiny Desk](https://www.youtube.com/watch?v=2C-WmZQABLQ)
+   * [Trueno - NPR Tiny Desk](https://youtu.be/2C-WmZQABLQ)
+     yt: [collage](https://youtu.be/X7eJ3ohdH7E)
    * [EKANY - XXIII sweetdrops Mix](https://soundcloud.com/xxiiibeats/sweetdrops-056-w-ekany)
    * [Hooded Youth, ChromeCrowns - Burn Cartel Radio 88](https://soundcloud.com/burncartel/bc-radio-episode-88?in=hoodedyouth/sets/burn-cartel-radio-episode-88)
    * Total recording time 3:09 hours; no second take
@@ -106,10 +107,11 @@ Recordings
    * [Jake Blount - NPR Tiny Desk](https://www.youtube.com/watch?v=uMPFEXq1eSU)
    * [Stromae - NPR Tiny Desk](https://www.youtube.com/watch?v=6dkDepLX0rk)
    * [DOMi & JD BECK - NPR Tiny Desk](https://www.youtube.com/watch?v=ANPbOxaRIO0)
-   * [Scary Pockets - STARBLASTER 3am Funk Dance Party](https://youtu.be/1UOVLdPslmo) improv
    * [Tyler, The Creator - NPR Tiny Desk](https://www.youtube.com/watch?v=N1w-hDiJ4dM) improv
    * [Cory Henry & The Funk Apostles - NPR Tiny Desk](https://youtu.be/6m0lk3M3_Ts) improv
-   * Total recording time 2:15 hours.
+   * [Scary Pockets - STARBLASTER 3am Funk Dance Party](https://youtu.be/1UOVLdPslmo) improv
+   * Total recording time 2:15 hours. Everything was fine!
+   * I sorted out my CongaDesk video collage concept and wrote a bash based render queue!
 
 Checklists
 ----------
