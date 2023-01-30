@@ -21,12 +21,13 @@ Recordings
    * [Blue States - Walkabout](https://soundcloud.com/bluestates/walkabout)
    * [Rocko Schamoni - Discoteer 2](https://www.youtube.com/watch?v=V9OnbnlGveg)
      yt: [full](https://www.youtube.com/watch?v=J1ZKtI4mjso)
-   * [4Hero - Star Chaser](https://www.youtube.com/watch?v=dvVZIxUb7Rg)
+   * [4Hero - Star Chaser](https://youtu.be/dvVZIxUb7Rg)
    * [Linda Lewis - Reach For The Truth](https://www.youtube.com/watch?v=RDdX0YyLCRs)
    * [daehan - Beach Trip!](https://soundcloud.com/daehanseo/beach-trip-1)
    * [Jamiroquai - Cosmic Girl](https://www.youtube.com/watch?v=D-NvQ6VJYtE)
      yt: [full](https://www.youtube.com/watch?v=FvN9UbfWYUU)
-   * [4Hero - We Who Are Not As Others (Jazzanova Remix)](https://www.youtube.com/watch?v=3KD_LgYsILI)
+   * [4Hero - We Who Are Not As Others (Jazzanova Remix)](https://youtu.be/3KD_LgYsILI)
+     yt: [full](https://youtu.be/RiXHy2mBIcg)
    * [Diplo Meets RJD2 Mix](https://www.youtube.com/watch?v=cj5h1o8XRnk)
      yt: [full](https://youtu.be/Dvgv8RipGB0)
    * [Self Help - International Dance Night Mixtape 2012](https://soundcloud.com/djselfhelp/dj-self-help-international)
@@ -84,17 +85,20 @@ Recordings
    * [Footprint Project - NANA](https://soundcloud.com/lalonova/footprint-project-nana-radio-edit)
      Second take because the mic distortion happend again. This time I identified the culprit: the
      pipewire system can be restarted when mic check reveals distortions.
-   * [Knower - Living Room Power Set 2020](https://www.youtube.com/watch?v=atBO6e7k5Wo)
+   * [Knower - Living Room Power Set 2020](https://youtu.be/atBO6e7k5Wo)
      Technically first take, because I forgot to arm the audio recording the first time…
-     yt: [full](https://youtu.be/_kSwVKgBf34)
+     yt: [full](https://youtu.be/_kSwVKgBf34) [collage](https://youtu.be/HDGdZgN45Bw)
    * Total recording time 1:15 hours; one recording issue, one unrecorded session
 
  * 2023-01-27
    * [Love Taps - WRG Mix 13](https://soundcloud.com/wrgmag/whats-really-good-mix-series-vol-13-by-love-taps)
      yt: [full](https://youtu.be/ccr00pGE6Zo)
-   * [Jon Batiste - NPR Tiny Desk](https://www.youtube.com/watch?v=ze4xcmBFvaE) improv
+   * [Jon Batiste - NPR Tiny Desk](https://youtu.be/ze4xcmBFvaE) improv
+     yt: [collage](https://youtu.be/rl-B1mV1DKc)
    * [Tower of Power - NPR Tiny Desk](https://www.youtube.com/watch?v=IDksWTzZQ2c) improv
-   * [Gucci Mane - NPR Tiny Desk](https://www.youtube.com/watch?v=wlFQjExxD4U) improv
+     yt: [collage](https://youtu.be/xkqZ07QxyKM)
+   * [Gucci Mane - NPR Tiny Desk](https://youtu.be/wlFQjExxD4U) improv
+     yt: [collage](https://youtu.be/MhOOm6QO85k)
    * [RJD2 - Radio One Breezeblock Mix 2004-06-08](https://www.last.fm/music/RJD2/_/Breezeblock+Mix+08-06-2004)
      yt: [full](https://youtu.be/Bg1yADd6d34)
    * [Zero7 - Nacht der 5 Sinne 2005-05-20](https://soundcloud.com/martin-schnabel-5/zero7-nacht-der-5-sinne-2005-05-20)
@@ -104,14 +108,30 @@ Recordings
    * Total recording time 4:16 hours; three improvs, no second take. Tour de force!
 
  * 2023-01-28
-   * [Jake Blount - NPR Tiny Desk](https://www.youtube.com/watch?v=uMPFEXq1eSU)
-   * [Stromae - NPR Tiny Desk](https://www.youtube.com/watch?v=6dkDepLX0rk)
-   * [DOMi & JD BECK - NPR Tiny Desk](https://www.youtube.com/watch?v=ANPbOxaRIO0)
-   * [Tyler, The Creator - NPR Tiny Desk](https://www.youtube.com/watch?v=N1w-hDiJ4dM) improv
+   * [Jake Blount - NPR Tiny Desk](https://youtu.be/uMPFEXq1eSU)
+     yt: [collage](https://youtu.be/8urfCyWwXRY)
+   * [Stromae - NPR Tiny Desk](https://youtu.be/6dkDepLX0rk)
+     yt: [collage](https://youtu.be/8BFcXfSqUm0)
+   * [DOMi & JD BECK - NPR Tiny Desk](https://youtu.be/ANPbOxaRIO0)
+     yt: [collage](https://youtu.be/kn698m7dWOw)
+   * [Tyler, The Creator - NPR Tiny Desk](https://youtu.be/N1w-hDiJ4dM) improv
+     yt: [collage](https://youtu.be/MqA3_wY8Abk)
    * [Cory Henry & The Funk Apostles - NPR Tiny Desk](https://youtu.be/6m0lk3M3_Ts) improv
+     yt: [collage](https://youtu.be/goDTCDAJKmY)
    * [Scary Pockets - STARBLASTER 3am Funk Dance Party](https://youtu.be/1UOVLdPslmo) improv
+     yt: [collage]()
    * Total recording time 2:15 hours. Everything was fine!
    * I sorted out my CongaDesk video collage concept and wrote a bash based render queue!
+
+ * 2023-01-29
+   * Today was spent mostly cutting and rendering CongaDesk collages and adding small text edits to
+     the KNOWER collage. I know at least one guy that has fun with it, and he got a conga.
+   * Thanks to the hacked together rendering queue, my CPU cores almost continuously on render jobs.
+   * This concludes the first week of this project. Now I will add some shorts and see how things
+     develop. Are there enough people out there that are interest in this? Do I get some contact to
+     jam with somebody or other opportunities? We will see and it was fun and worth a try.
+   * The next few month I will concentrate on my work that will mostly involve programming. However
+     I need to play my conga anyway, so I will probably record a few takes.
 
 Checklists
 ----------
