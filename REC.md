@@ -19,22 +19,22 @@ Recordings
    tap to a audible one, but it was ok for the first take. Todays recordings:
    * [Jazzanova - Fedime's Flight](https://soundcloud.com/jazzanova/jazzanova-fedimes-flight)
    * [Blue States - Walkabout](https://soundcloud.com/bluestates/walkabout)
-   * [Rocko Schamoni - Discoteer 2](https://www.youtube.com/watch?v=V9OnbnlGveg)
-     yt: [full](https://www.youtube.com/watch?v=J1ZKtI4mjso)
+   * [Rocko Schamoni - Discoteer 2](https://youtu.be/V9OnbnlGveg)
+     yt: [full](https://youtu.be/J1ZKtI4mjso)
    * [4Hero - Star Chaser](https://youtu.be/dvVZIxUb7Rg)
-   * [Linda Lewis - Reach For The Truth](https://www.youtube.com/watch?v=RDdX0YyLCRs)
+   * [Linda Lewis - Reach For The Truth](https://youtu.be/RDdX0YyLCRs)
    * [daehan - Beach Trip!](https://soundcloud.com/daehanseo/beach-trip-1)
-   * [Jamiroquai - Cosmic Girl](https://www.youtube.com/watch?v=D-NvQ6VJYtE)
-     yt: [full](https://www.youtube.com/watch?v=FvN9UbfWYUU)
+   * [Jamiroquai - Cosmic Girl](https://youtu.be/D-NvQ6VJYtE)
+     yt: [full](https://youtu.be/FvN9UbfWYUU)
    * [4Hero - We Who Are Not As Others (Jazzanova Remix)](https://youtu.be/3KD_LgYsILI)
      yt: [full](https://youtu.be/RiXHy2mBIcg)
-   * [Diplo Meets RJD2 Mix](https://www.youtube.com/watch?v=cj5h1o8XRnk)
+   * [Diplo Meets RJD2 Mix](https://youtu.be/cj5h1o8XRnk)
      yt: [full](https://youtu.be/Dvgv8RipGB0)
    * [Self Help - International Dance Night Mixtape 2012](https://soundcloud.com/djselfhelp/dj-self-help-international)
      yt: [full](https://youtu.be/h8Uyaf74qpk)
    * [Louis Cole - Dead Inside Shuffle](https://soundcloud.com/louiscole/dead-inside-shuffle)
    * [Anderson .Paak - Am I Wrong](https://soundcloud.com/andersonpaak/am-i-wrong-anderson-paak)
-   * [Koffee - NPR Tiny Desk](https://www.youtube.com/watch?v=0Cmzn8BIOdA)
+   * [Koffee - NPR Tiny Desk](https://youtu.be/0Cmzn8BIOdA)
      yt: [full](https://youtu.be/vG-SLVJTZs0) [collage](https://youtu.be/OysJFD_BxtQ)
    * [Cid Rim - On Gilles Peterson World Wide 942](https://soundcloud.com/worldwide-fm/gpww942-cidrim-mix)
      yt: [full](https://youtu.be/o7YRKBEJsBM)
@@ -53,10 +53,10 @@ Recordings
 
  * 2023-01-24 I have discovered that the naming of Ardour session folder uses a unfortunate format.
    I try to rename them first before recording new sessions.
-   * [Nina Simone - Feeling Good](https://www.youtube.com/watch?v=oHRNrgDIJfo)
+   * [Nina Simone - Feeling Good](https://youtu.be/oHRNrgDIJfo)
    * [The Nextmen - Cirque Du Soul Mix](https://www.mixcloud.com/thenextmen/cirque-du-soul-nextmen-mix/)
-     yt: [full](https://www.youtube.com/watch?v=vzd615yaguk)
-   * [Soul Bossa Trio - Words Of Love (Jazzanova Remix)](https://www.youtube.com/watch?v=BUTyasfhI-g)
+     yt: [full](https://youtu.be/vzd615yaguk)
+   * [Soul Bossa Trio - Words Of Love (Jazzanova Remix)](https://youtu.be/BUTyasfhI-g)
      yt: [full](https://youtu.be/Qp-Nnv4d9PE)
    * [Trueno - NPR Tiny Desk](https://youtu.be/2C-WmZQABLQ)
      yt: [collage](https://youtu.be/X7eJ3ohdH7E)
@@ -76,10 +76,10 @@ Recordings
      wrong with the mic and it sounds like it had bit-crusher effect all the time. It is gone now.
      It must have been a XLR-Cable under tension. This was an 1-hour mic check ;) and must be
      avoided in the future.
-     yt: [full](https://www.youtube.com/watch?v=I5-xhoKfKcU)
+     yt: [full](https://youtu.be/I5-xhoKfKcU)
 
  * 2023-01-26 The last 8 hours I exported, synced, cut, rendered and uploaded videos and clips to
-   [my youtube channel](https://m.youtube.com/@mbnull). After some sleep I do some more.
+   [my youtube channel](https://youtube.com/@mbnull). After some sleep I do some more.
    * [K-$ADILLA - El Super Spicy Tape](https://soundcloud.com/thunderstone-labs/sst)
      yt: [full](https://youtu.be/etgSMNBt7zo)
    * [Footprint Project - NANA](https://soundcloud.com/lalonova/footprint-project-nana-radio-edit)
@@ -95,7 +95,7 @@ Recordings
      yt: [full](https://youtu.be/ccr00pGE6Zo)
    * [Jon Batiste - NPR Tiny Desk](https://youtu.be/ze4xcmBFvaE) improv
      yt: [collage](https://youtu.be/rl-B1mV1DKc)
-   * [Tower of Power - NPR Tiny Desk](https://www.youtube.com/watch?v=IDksWTzZQ2c) improv
+   * [Tower of Power - NPR Tiny Desk](https://youtu.be/IDksWTzZQ2c) improv
      yt: [collage](https://youtu.be/xkqZ07QxyKM)
    * [Gucci Mane - NPR Tiny Desk](https://youtu.be/wlFQjExxD4U) improv
      yt: [collage](https://youtu.be/MhOOm6QO85k)
@@ -131,7 +131,21 @@ Recordings
      develop. Are there enough people out there that are interest in this? Do I get some contact to
      jam with somebody or other opportunities? We will see and it was fun and worth a try.
    * The next few month I will concentrate on my work that will mostly involve programming. However
-     I need to play my conga anyway, so I will probably record a few takes.
+     I need to play my conga anyway, so I will probably record a few takes
+
+ * 2023-02-01
+   I luckily got some honest opinion from NPR legal and removed all content from youtube. I am very
+   thankful for that honesty, because I would have sank more time into this (and Tiny Desk is still
+   awesome, no worries). I think the whole media landscape is just too comercialized, that anything
+   like my naive ideas could work. We cannot not have nice things, otherwise anybody could have fun.
+   To clarify they just indicated that npr would not grant resticted rights to tiny desk videos for
+   hobby musicians collages unless the artist and publisher would lobby hard for that to happen.
+   That however tells me there is no chance to anything I envision (provide a legal fence around
+   some works that can be dubbed by the hobby musicians that is), if even a contact at a nationally
+   funded public media outlet would not really think anyone would consider such a project.
+   I am really sad, but had fun learning recording and video editing for that project and was
+   encouraged by the viewers. I hope someone, somewhere was surprise what sounds you get out of a
+   drum. Thanks for all the fish!
 
 Checklists
 ----------
@@ -165,24 +179,24 @@ TODO
 ----
 
    * More from NPR Tiny Desk
-     * [Jessie Reyez - NPR Tiny Desk](https://www.youtube.com/watch?v=wSl5_RDCfrQ)
-     * [Dua Lipa - NPR Tiny Desk](https://www.youtube.com/watch?v=F4neLJQC1_E)
-     * [Erykah Badu - NPR Tiny Desk](https://www.youtube.com/watch?v=4cfmEgpOOZk)
-     * [Seu Jorge - NPR Tiny Desk](https://www.youtube.com/watch?v=2Ws_5-hiqao)
-     * [The Free Nationals Feat. Anderson .Paak, Chronixx & India Shawn - NPR Tiny Desk](https://www.youtube.com/watch?v=y1VKZUg8XZA)
-     * [The Comet Is Coming - NPR Tiny Desk](https://www.youtube.com/watch?v=gpfpYTmohAk)
-     * [Wyclef Jean - NPR Tiny Desk](https://www.youtube.com/watch?v=EhnLJwmEy_k)
-     * [No BS! Brass Band - NPR Tiny Desk](https://www.youtube.com/watch?v=MEjNggZsWow)
-     * [Masego - NPR Tiny Desk](https://www.youtube.com/watch?v=K6tzeZLjUNE)
-     * [Aminé - NPR Tiny Desk](https://www.youtube.com/watch?v=l0MqlDbZ_as)
-     * [Phony Ppl - NPR Tiny Desk](https://www.youtube.com/watch?v=5gP0-sDkFS8)
-     * [Protoje - NPR Tiny Desk](https://www.youtube.com/watch?v=CMyNMITOjro)
-     * [Bas - NPR Tiny Desk](https://www.youtube.com/watch?v=m0bOq-sm-m8)
-     * [Lila Iké - NPR Tiny Desk](https://www.youtube.com/watch?v=mbPa0QH_zxA)
-   * [FKJ - Live at La Fée Electricité](https://www.youtube.com/watch?v=xuc9C-C6Ldw)
-   * [Snarky Puppy - Lingus](https://www.youtube.com/watch?v=L_XJ_s5IsQc)
+     * [Jessie Reyez - NPR Tiny Desk](https://youtu.be/wSl5_RDCfrQ)
+     * [Dua Lipa - NPR Tiny Desk](https://youtu.be/F4neLJQC1_E)
+     * [Erykah Badu - NPR Tiny Desk](https://youtu.be/4cfmEgpOOZk)
+     * [Seu Jorge - NPR Tiny Desk](https://youtu.be/2Ws_5-hiqao)
+     * [The Free Nationals Feat. Anderson .Paak, Chronixx & India Shawn - NPR Tiny Desk](https://youtu.be/y1VKZUg8XZA)
+     * [The Comet Is Coming - NPR Tiny Desk](https://youtu.be/gpfpYTmohAk)
+     * [Wyclef Jean - NPR Tiny Desk](https://youtu.be/EhnLJwmEy_k)
+     * [No BS! Brass Band - NPR Tiny Desk](https://youtu.be/MEjNggZsWow)
+     * [Masego - NPR Tiny Desk](https://youtu.be/K6tzeZLjUNE)
+     * [Aminé - NPR Tiny Desk](https://youtu.be/l0MqlDbZ_as)
+     * [Phony Ppl - NPR Tiny Desk](https://youtu.be/5gP0-sDkFS8)
+     * [Protoje - NPR Tiny Desk](https://youtu.be/CMyNMITOjro)
+     * [Bas - NPR Tiny Desk](https://youtu.be/m0bOq-sm-m8)
+     * [Lila Iké - NPR Tiny Desk](https://youtu.be/mbPa0QH_zxA)
+   * [FKJ - Live at La Fée Electricité](https://youtu.be/xuc9C-C6Ldw)
+   * [Snarky Puppy - Lingus](https://youtu.be/L_XJ_s5IsQc)
+   * [Camtrao - Operator Radio 2023-01-25](https://soundcloud.com/camtrao/mixingmotion-w-camtrao-25-01-23)
    * Great Solid Steel Mixes
-   * The Zero 7 mix
    * A Bob Marley concert with good audio quality
-   * [Ear Dis - Hey Girl](https://www.youtube.com/watch?v=ia8QIofFWgc) get better version
-   * https://www.youtube.com/watch?v=QJtWwmt0cXM
+   * [Ear Dis - Hey Girl](https://youtu.be/ia8QIofFWgc) get better version
+   * [infusion26 - Gimme! Gimme! Gimme! - ABBA Bass Cover]() https://youtu.be/QJtWwmt0cXM

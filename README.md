@@ -1,7 +1,11 @@
 Show
 ====
 
-I want to record me playing my conga to good songs and share the result.
+This project is dead for now. You can read my last recording [log entry](./REC.md) if you are
+interested in the details.
+
+I wanted to record me playing my conga to good songs and share the result. It sadly only works as
+long as you don't try to ask for permission, as is evident by lots of content on youtube.
 
 The show should only use open source software. There is not much free hardware yet.
 Free music should be featured, but a shallow search revealed not much progress there.
